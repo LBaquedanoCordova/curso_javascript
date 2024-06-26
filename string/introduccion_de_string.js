@@ -20,8 +20,11 @@ console.log(strComillasDobles);
 
 
 //Comillas invertidas
-
-
+/* 
+Interpolación de variables y expresiones.
+Definición de cadenas multilínea.
+Inclusión de comillas simples y dobles sin necesidad de caracteres de escape. 
+*/
 let strBackticks = `Hola esto es un string con brackticks`;
 
 console.log(strBackticks);
